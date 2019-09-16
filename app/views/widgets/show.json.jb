@@ -1,0 +1,6 @@
+{
+  id: @widget.id,
+  name: @widget.name,
+  created_at: @widget.created_at,
+  updated_at: @widget.updated_at
+}
